@@ -1,7 +1,8 @@
 # Register Form
 
 - A dynamic register form was designed and a special error message was given when the inputs were not suitable for the pattern.
-- The onblur attribute fires the moment that the element loses focus. Onblur is most often used with form validation code (e.g. when the user leaves a form field). Tip: The onblur attribute is the opposite of the onfocus attribute.
+- The onblur attribute fires the moment that the element loses focus. Onblur is most often used with form validation code (e.g. when the user leaves a form field). 
+- Tip: The onblur attribute is the opposite of the onfocus attribute.
 
 # Screenshot
 
